@@ -19,7 +19,7 @@
 
 ![pic 3](https://cloud.githubusercontent.com/assets/22663863/24254528/62945d90-0fa0-11e7-94b2-b61e7eea0c81.png)
 
-## Running Backend Application:
+## Running Backend Application for tweets_sandy.csv dataset:
 ##### Prerequisites:
 ##### 1.Save tweets.js file in your home directory 
 ##### 2.Download tweets_sandy.csv collection from http://kelvin.ist.rit.edu/~mjmic and save it in your home directory 
@@ -49,6 +49,33 @@
 ![pic 82](https://cloud.githubusercontent.com/assets/22663863/24255161/efb89488-0fa1-11e7-9ce8-fde857f0f138.png)
 
 
+## Running Backend Application for Amazon_Automotive.json dataset:
+##### Prerequisites:
+##### 1.Save amazon.js file in your home directory 
+##### 2.Download Amazon_Automotive.json collection from RIT myCourses/Drop Box and save it in your home directory
+##### 3.Import amazon dataset 
+##### (Note: Make sure you exit the mongo shell (using exit) and issue  the following command at the system prompt)
+##### mongoimport --headerline --db users --collection Amazon_Automotive --drop --type json --file Amazon_Automotive.json  
+
+![pic 1](https://cloud.githubusercontent.com/assets/22663863/24273569/404094d0-0fe0-11e7-9344-387313ec92da.png)
+##### 4.Start mongo client by running mongo!
+
+![pic 2](https://cloud.githubusercontent.com/assets/22663863/24273572/40441e2a-0fe0-11e7-90db-a1c3b2e00c53.png)
+##### 5.Access Users database by running use users            
+
+![pic 3](https://cloud.githubusercontent.com/assets/22663863/24273568/40406c3a-0fe0-11e7-9acc-024dfdef8b5d.png)
+##### 6.Show that you have Amazon_Automotive collection under users database by running show collections  
+
+![pic 4](https://cloud.githubusercontent.com/assets/22663863/24273567/403ceb0a-0fe0-11e7-9fb0-d149a7468af6.png)
+##### 7.Exit mongo client by running exit 
+
+ ![pic 5](https://cloud.githubusercontent.com/assets/22663863/24273566/403bd54e-0fe0-11e7-8085-379037487378.png)
+##### 8.Run the program using node amazon.js 
+
+ ![pic 6](https://cloud.githubusercontent.com/assets/22663863/24273570/40426c9c-0fe0-11e7-8a14-d7812ff0059d.png)
+##### You will get the following output:                        
+
+![pic 7](https://cloud.githubusercontent.com/assets/22663863/24273571/40434018-0fe0-11e7-8904-de1f91ea71ac.png)
 
 
 
