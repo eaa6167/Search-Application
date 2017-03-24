@@ -46,8 +46,7 @@
 ![pic 81](https://cloud.githubusercontent.com/assets/22663863/24255164/efbf8ab8-0fa1-11e7-9351-3fdcf5e79436.png)
 ##### You will get the following output:
 
-![output tweet](https://cloud.githubusercontent.com/assets/22663863/24277530/df0ddc70-0ffa-11e7-93d5-db28f241163e.png)
-
+![tweet output](https://cloud.githubusercontent.com/assets/22663863/24309689/0e577d80-108a-11e7-9445-7f62cd456879.png)
 ## Running Backend Application for Amazon_Automotive.json dataset:
 ##### Prerequisites:
 ##### 1.Save amazon.js file in your home directory 
@@ -75,8 +74,7 @@
 ##### You will get the following output:
 ##### (note: Due to the large document , I have posted partial output)
 
-![pic 7](https://cloud.githubusercontent.com/assets/22663863/24273571/40434018-0fe0-11e7-8904-de1f91ea71ac.png)
-
+![amazon output](https://cloud.githubusercontent.com/assets/22663863/24309688/0e5770f6-108a-11e7-900c-f653e0350852.png)
 
 
 
