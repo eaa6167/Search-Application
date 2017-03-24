@@ -1,6 +1,6 @@
 # Search-Application
  Search Application is an application that can be used to search tweets or comparable data of your choice.     
-#####  This document contains details on Installing and Running this application.                                                                     
+#####  This document contains details on Installing and Running this application using Tweet and Amazon datasets.                                                                     
 ##### Before you start running our backend application, please install the driver (NodeJS) to connect to MongoDB. 
 ## Install:
 ##### A. Check if Node and NPM are already installed by running the following commands on terminal: 
@@ -73,7 +73,8 @@
 ##### 8.Run the program using node amazon.js 
 
  ![pic 6](https://cloud.githubusercontent.com/assets/22663863/24273570/40426c9c-0fe0-11e7-8a14-d7812ff0059d.png)
-##### You will get the following output:                        
+##### You will get the following output:
+##### (note: Due to the large document , I have posted partial output)
 
 ![pic 7](https://cloud.githubusercontent.com/assets/22663863/24273571/40434018-0fe0-11e7-8904-de1f91ea71ac.png)
 
