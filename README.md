@@ -46,8 +46,7 @@
 ![pic 81](https://cloud.githubusercontent.com/assets/22663863/24255164/efbf8ab8-0fa1-11e7-9351-3fdcf5e79436.png)
 ##### You will get the following output:
 
-![pic 82](https://cloud.githubusercontent.com/assets/22663863/24255161/efb89488-0fa1-11e7-9ce8-fde857f0f138.png)
-
+![output tweet](https://cloud.githubusercontent.com/assets/22663863/24277530/df0ddc70-0ffa-11e7-93d5-db28f241163e.png)
 
 ## Running Backend Application for Amazon_Automotive.json dataset:
 ##### Prerequisites:
